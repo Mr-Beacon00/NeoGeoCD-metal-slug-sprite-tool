@@ -8,3 +8,4 @@ Also thanks to [NeoGeo Development Wiki](https://wiki.neogeodev.org/index.php?ti
 # Usage
 ```
 neocd_spr.exe <input.SPR> <output>
+```
